@@ -1,6 +1,6 @@
-# Simple File System Program
+# File System Program
 
-This is a simple Python program that simulates a basic file system. It provides a command-line interface to perform file and directory operations within the virtual file system.
+This is a Python program that simulates a basic file system. It provides a command-line interface to perform file and directory operations within the virtual file system.
 
 ## Features
 
