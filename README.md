@@ -12,7 +12,7 @@ This is a simple Python program that simulates a basic file system. It provides 
 
 ## Usage
 
-Run the program using Python:
+1. Run the program using Python:
 
    ```bash
    python file_system.py
