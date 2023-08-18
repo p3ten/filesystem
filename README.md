@@ -30,7 +30,7 @@ mkdir dir_name: Create a new directory with the given name in the current direct
 
 ls: List the contents of the current directory.
 
-cd {path}: Change the current directory to the specified path.
+cd path: Change the current directory to the specified path.
 
 exit: Exit the program.
 
