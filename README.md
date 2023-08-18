@@ -25,21 +25,14 @@ You will start in the root directory (/). The program prompt will show the curre
 Available commands:
 
 touch file_name: Create a new file with the given name in the current directory.
-
 mkdir dir_name: Create a new directory with the given name in the current directory.
-
 ls: List the contents of the current directory.
-
 cd path: Change the current directory to the specified path.
-
 exit: Exit the program.
 
 When using the touch or mkdir commands, you can provide paths relative to the current directory. For example:
 
 touch file.txt creates a file named "file.txt" in the current directory.
-
 mkdir my_folder creates a directory named "my_folder" in the current directory.
-
 To navigate through directories, use the cd command followed by the path. You can use absolute paths or relative paths to navigate.
-
 The program will continue to run until you enter the exit command.
