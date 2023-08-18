@@ -19,8 +19,8 @@ This is a simple Python program that simulates a basic file system. It provides 
 
 ### Available commands
 
-- `touch file_name`: Create a new file with the given name in the current directory.
-- `mkdir dir_name`: Create a new directory with the given name in the current directory.
+- `touch`: Create a new file with the given name in the current directory.
+- `mkdir`: Create a new directory with the given name in the current directory.
 - `ls`: List the contents of the current directory.
 - `cd path`: Change the current directory to the specified path.
 - `exit`: Exit the program.
